@@ -26,4 +26,6 @@ abstract class Binatang {
     //akan di override oleh subclass
     public abstract void displayBinatang();
 
+    public abstract void displayData();
+
 }
