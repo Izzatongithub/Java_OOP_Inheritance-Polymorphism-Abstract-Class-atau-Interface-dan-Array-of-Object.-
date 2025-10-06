@@ -1,7 +1,7 @@
 public interface Herbivora {
 
-    public String jenisH = "Herbivoraaa";
-    public String MakananH = "Tumbuhan";
+    public String jenisH = "Herbivora";
+    public String MakananH = "Tumbuhan hijau";
 
     public void displayMakan();
 }
